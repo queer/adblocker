@@ -1,0 +1,5 @@
+punishment-commands: ["tempmute %name% 5m Advertising | Automated punishment"]
+ad-check-message: "&7Are you advertising? Give us a minute to check..."
+not-ad-message: "&7You're not advertising. Sorry about that."
+blacklist: ['example.com']
+whitelist: ['127.0.0.1']

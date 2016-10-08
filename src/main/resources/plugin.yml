@@ -1,0 +1,25 @@
+name: Adblocker
+main: lgbt.audrey.adblocker.Adblocker
+version: 0.2.0
+description: The magic ad-blocking plugin
+authors: [skirts]
+website: https://audrey.lgbt/
+
+commands:
+  adblock:
+    description: Adblocker management command
+    usage: /<command> reload
+    permission: adblocker.reload
+
+permissions:
+  adblocker.*:
+    description: All adblocker permissions
+    children:
+      adblocker.notify: true
+    default: op
+  adblocker.notify:
+    description: Players with this permission are notified when an ad is blocked
+    default: op
+  adblocker.reload:
+    description: Reload the config
+    default: op
