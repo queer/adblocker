@@ -9,3 +9,9 @@ It does some regex matching to look for what it thinks a domain or IP address lo
 ## How build?
 
 `mvn clean package`. Requires Java 8. 
+
+## Pics :D?
+
+![Pic 1](https://i.imgur.com/JgO0A33.png)
+![Pic 2](https://i.imgur.com/mPp8Wuu.png)
+[Imgur link that was used for testing](http://i.imgur.com/PslVq3x.png)
