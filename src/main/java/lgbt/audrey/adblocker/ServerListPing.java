@@ -13,8 +13,15 @@ import java.util.List;
  * Not actually mine. Used for pinging a Minecraft server and reading the
  * response.
  *
- * @author unknown
- * @since 8/30/15.
+ * NOTE: This class is NOT licensed under the same license as the rest of the
+ * project. I don't know what license that zh32 has put this under, so use at
+ * your own risk.
+ *
+ * <a href="https://gist.github.com/zh32/7190955">Source</a>
+ *
+ * @author zh32
+ * @since ???
+ *
  */
 @SuppressWarnings("unused")
 public class ServerListPing {
