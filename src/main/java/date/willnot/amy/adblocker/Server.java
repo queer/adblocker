@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package lgbt.audrey.adblocker;
+package date.willnot.amy.adblocker;
 
-import lgbt.audrey.adblocker.ServerListPing.StatusResponse;
+import date.willnot.amy.adblocker.ServerListPing.StatusResponse;
 import lombok.Getter;
 
 import java.net.InetSocketAddress;

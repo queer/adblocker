@@ -1,5 +1,5 @@
 name: Adblocker
-main: lgbt.audrey.adblocker.Adblocker
+main: date.willnot.amy.adblocker.Adblocker
 version: 0.2.0
 description: The magic ad-blocking plugin
 authors: [skirts]

@@ -1,4 +1,4 @@
-package lgbt.audrey.adblocker;
+package date.willnot.amy.adblocker;
 
 import com.google.gson.Gson;
 import org.bukkit.Bukkit;

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package lgbt.audrey.adblocker;
+package date.willnot.amy.adblocker;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
